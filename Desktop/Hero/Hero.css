@@ -1,0 +1,132 @@
+*{
+    text-decoration: none;
+}
+body{
+    background-image: url(../../Downloads/stock-vector-abstract-overlap-square-dark-blue-pattern-background-simple-design-with-orange-lines-element-2661003329.jpg);
+    font-size: large;
+    box-shadow: 50px;
+
+}
+.ton{
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-size: cover;
+    border-radius: 20px;
+
+}
+.innodiv{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    background: linear-gradient(to left, orange , white);
+    align-items: center;
+    border-radius: 400px;
+    box-shadow: 0 0 30px;
+    border: 0 0 3px solid orangered;
+}
+.logo{
+    font-size: 35px;
+    font-weight: 600;
+    font-style: oblique;
+    border-radius: 20px;
+    background: linear-gradient(to right,rgb(194, 118, 90,) white);
+}
+nav ul li{
+    display: inline-block;
+    align-items: center;
+    padding: 5px;
+    font-size: 25px;
+    font-weight: 600;
+    font-style: italic;
+}
+li a{
+    padding: 30px;
+}
+
+button{
+    border-radius: 10px;
+    font-size: 20px;
+    background-color: yellow;
+    color: black;
+    box-shadow: 50px;
+}
+button:hover{
+    color: black;
+    background-color: aquamarine;
+    transition: 5s;
+    box-shadow: 50px;
+}
+img{
+    border-radius: 50%;
+    width: 300px;
+    height: 300px;
+    float: left;
+    margin-top: 20px;
+    box-shadow: 50px;
+    margin-bottom: 100px;
+    padding-left: 20px;
+    padding-right: 30px;
+}
+.p{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 40px;
+}
+span{
+    background-color: orangered;
+    border-radius: 20px; 
+    box-shadow: 30px;
+    font-weight: 700;
+    font-family: 35px;
+}
+.JOHN{
+    color: aqua;
+    font-weight: 900;
+    font-size: xx-large;
+    padding-top: 50px;
+    box-shadow: 70px;
+    font-style: italic;
+}
+.TECH{
+    align-items: center;
+}
+.hon a{
+    color: white;
+}
+p{
+    color: white;
+}
+.jon{
+    background-color: blue;
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+}
+.wig{
+    background-color: blue;
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+}
+.week a{
+    color: white;
+}
+p{
+    color: white;
+}
+.spy a{
+    color: white;
+}
+.web{
+    background-color: blue;
+    width: 200px;
+    height: 150px;
+    border-radius: 10px;
+}
+.ton{
+    display: flex;
+    justify-content: space-between;
+    box-shadow: 50px;
+}
